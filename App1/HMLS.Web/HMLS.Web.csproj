@@ -251,10 +251,6 @@
       <Project>{184cd54a-b390-495d-b758-44a2d20d75f5}</Project>
       <Name>HLMS.CCExtractor</Name>
     </ProjectReference>
-    <ProjectReference Include="..\HLMS.HL\HLMS.HL.csproj">
-      <Project>{c1ae9bde-c308-4eee-a168-c95368499053}</Project>
-      <Name>HLMS.HL</Name>
-    </ProjectReference>
     <ProjectReference Include="..\HLMS.Search\HLMS.Search.csproj">
       <Project>{3dd20917-c0d1-4ce8-92ea-a43c10c4bcfe}</Project>
       <Name>HLMS.Search</Name>

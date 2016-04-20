@@ -5,11 +5,11 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMLS.Web", "HMLS.Web\HMLS.Web.csproj", "{CF299E43-488E-400B-8E5D-2745666FB928}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HLMS.HL", "HLMS.HL\HLMS.HL.csproj", "{C1AE9BDE-C308-4EEE-A168-C95368499053}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HLMS.CCExtractor", "HLMS.CCExtractor\HLMS.CCExtractor.csproj", "{184CD54A-B390-495D-B758-44A2D20D75F5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HLMS.Search", "HLMS.Search\HLMS.Search.csproj", "{3DD20917-C0D1-4CE8-92EA-A43C10C4BCFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HLMS.HL", "..\..\..\..\..\..\..\mediaservies\samples\Windows Azure Media Services Getting Started Sample\C#\Hyperlapse\HLMS.HL.csproj", "{924EADE3-2F5E-4525-A4F6-00878DB5C751}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,10 +21,6 @@ Global
 		{CF299E43-488E-400B-8E5D-2745666FB928}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF299E43-488E-400B-8E5D-2745666FB928}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF299E43-488E-400B-8E5D-2745666FB928}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C1AE9BDE-C308-4EEE-A168-C95368499053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C1AE9BDE-C308-4EEE-A168-C95368499053}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C1AE9BDE-C308-4EEE-A168-C95368499053}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C1AE9BDE-C308-4EEE-A168-C95368499053}.Release|Any CPU.Build.0 = Release|Any CPU
 		{184CD54A-B390-495D-B758-44A2D20D75F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{184CD54A-B390-495D-B758-44A2D20D75F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{184CD54A-B390-495D-B758-44A2D20D75F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,6 +29,10 @@ Global
 		{3DD20917-C0D1-4CE8-92EA-A43C10C4BCFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DD20917-C0D1-4CE8-92EA-A43C10C4BCFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DD20917-C0D1-4CE8-92EA-A43C10C4BCFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{924EADE3-2F5E-4525-A4F6-00878DB5C751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{924EADE3-2F5E-4525-A4F6-00878DB5C751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{924EADE3-2F5E-4525-A4F6-00878DB5C751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{924EADE3-2F5E-4525-A4F6-00878DB5C751}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
