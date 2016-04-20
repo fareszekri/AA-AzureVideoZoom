@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HLMS.CCExtractor", "HLMS.CC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HLMS.Search", "HLMS.Search\HLMS.Search.csproj", "{3DD20917-C0D1-4CE8-92EA-A43C10C4BCFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HLMS.HL", "..\..\..\..\..\..\..\mediaservies\samples\Windows Azure Media Services Getting Started Sample\C#\Hyperlapse\HLMS.HL.csproj", "{924EADE3-2F5E-4525-A4F6-00878DB5C751}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HLMS.HL", "HLMS.HL\HLMS.HL.csproj", "{924EADE3-2F5E-4525-A4F6-00878DB5C751}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
